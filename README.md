@@ -1,6 +1,7 @@
 # Random Colour Generator
 
 This is a simple yet engaging Random Colour Generator that demonstrates the use of HTML, CSS, and JavaScript. It showcases clean code practices with a focus on user interaction, DOM manipulation, and dynamic styling. 
+
 ![67b0d206d1c87789881973](https://github.com/user-attachments/assets/b4a91dd7-b4fb-4f81-b722-45c399d59821)
 
 ## Table of Contents
