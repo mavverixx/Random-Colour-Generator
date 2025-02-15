@@ -74,7 +74,5 @@ JavaScript Info for in-depth JavaScript tutorials.
 GitHub: mavverixx
 [Linkedin](https://www.linkedin.com/in/rikkihenry/) 
 
-``
-
 ### Acknowledgments
 Thank you to everyone who contributed ideas, feedback, and support during the development of this project.
