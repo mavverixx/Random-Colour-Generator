@@ -26,12 +26,6 @@ Build a Random Colour Generator that:
 - Updates the colour display area with the new colour.
 - Logs each generation action to the console.
 
-### Screenshot
-
-![67b0d206d1c87789881973](https://github.com/user-attachments/assets/deebb49b-de9f-4b8b-9c5b-722d6068ab97)
-  
-*Note: Replace the above image with an actual screenshot of your project.*
-
 ### Links
 
 - **Source Code:** [GitHub Repository](https://github.com/mavverixx/Random-Colour-Generator)
