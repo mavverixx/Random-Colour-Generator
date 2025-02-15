@@ -79,5 +79,9 @@ GitHub: mavverixx
 
 LinkedIn: Rikki Henry
 
+[Linkedin](https://www.linkedin.com/in/rikkihenry/) 
+
+``
+
 ### Acknowledgments
 Thank you to everyone who contributed ideas, feedback, and support during the development of this project.
