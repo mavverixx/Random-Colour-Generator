@@ -76,9 +76,6 @@ JavaScript Info for in-depth JavaScript tutorials.
 ### Author
 
 GitHub: mavverixx
-
-LinkedIn: Rikki Henry
-
 [Linkedin](https://www.linkedin.com/in/rikkihenry/) 
 
 ``
